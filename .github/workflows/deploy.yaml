@@ -19,15 +19,14 @@ jobs:
         node-version: '14'
 
     - name: Install dependencies
-      run: cd Christine && npm install
+      run: npm install
 
     - name: Build the project
-      run: cd Christine && npm run build
+      run: npm run build
 
     - name: Deploy to GitHub Pages
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        cd Christine
         npm install -g gh-pages
         npm run deploy
