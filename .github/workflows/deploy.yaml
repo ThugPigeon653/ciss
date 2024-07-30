@@ -34,4 +34,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         npm install -g gh-pages
-        npm run deploy
+        gh-pages -d build -r "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
