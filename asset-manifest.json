@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ciss/static/css/main.e1a4b121.css",
+    "main.js": "/ciss/static/js/main.88daffb1.js",
+    "static/media/support-worker-01.png": "/ciss/static/media/support-worker-01.48f4ae7034042111df19.png",
+    "static/media/support-worker.png": "/ciss/static/media/support-worker.06a4af344f7a3243b1fa.png",
+    "static/media/support-worker-02.png": "/ciss/static/media/support-worker-02.aa9eff9824b5a31c8590.png",
+    "index.html": "/ciss/index.html",
+    "main.e1a4b121.css.map": "/ciss/static/css/main.e1a4b121.css.map",
+    "main.88daffb1.js.map": "/ciss/static/js/main.88daffb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1a4b121.css",
+    "static/js/main.88daffb1.js"
+  ]
+}
