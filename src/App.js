@@ -10,7 +10,7 @@ import ContactForm from "./Components/ContactForm"; // Import ContactForm compon
 function App() {
   return (
     <div className="App">
-      <Router basename="/CISS"> {/* Ensure basename matches your deployment */}
+      <Router basename="/"> {/* Ensure basename matches your deployment */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/legal" element={<Legal />} />
