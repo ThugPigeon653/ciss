@@ -15,9 +15,9 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Christine Walton Independant Support Services, your trusted partner for accessible and
-          personalized support. With years of industry experience, we offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
+          Welcome to Christine Walton Independent Support Services, your trusted partner for accessible and
+          personalised support. With years of industry experience, we offer online consultations
+          and specialised services, prioritising your well-being. Join us on
           this journey towards a healthier you.
         </p>
 
