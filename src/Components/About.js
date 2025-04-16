@@ -15,26 +15,23 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Christine Walton Independent Support Services, your trusted partner for accessible and
-          personalised support. With years of industry experience, we offer online consultations
-          and specialised services, prioritising your well-being. Join us on
-          this journey towards a healthier you.
+          Welcome to Trusted Pathways, your partner for accessible and personalised support. With years of industry experience, we offer expert support coordination services that meet your unique needs. Join us on this journey towards meeting your NDIS goals. 
         </p>
 
         <h4 className="about-text-title">Your Solutions</h4>
         <SolutionStep
           title="Choose Your Support"
-          description="Find the perfect support worker or coordinator tailored to your unique needs. Our experienced professionals are dedicated to providing compassionate and expert assistance, prioritizing your well-being."
+          description="Find the perfect support coordinator tailored to your unique needs. Our experienced professionals are dedicated to providing compassionate and expert assistance, prioritizing your choice and control."
         />
 
         <SolutionStep
           title="Schedule with Ease"
-          description="Select the date and time that suits you best, and enjoy the convenience of personalized care at your doorstep. Our dedicated team ensures seamless and reliable support coordination."
+          description="Get in touch with our team to schedule appointments with the convienience of personalised care at your doorstep. Our dedicated team ensures seamless and reliable support coordination services that travel to you and are available when you need us."
         />
 
         <SolutionStep
           title="Achieve Your Goals"
-          description="Receive expert guidance and personalized care plans designed to help you achieve your goals. Whether it's daily support or navigating NDIS plans, we are here to ensure your success and independence."
+          description="Receive expert guidance and personalised care plans designed to help you achieve your goals. Whether it's daily support or navigating NDIS plans, we are here to ensure your success and independence."
         />
 
       </div>
