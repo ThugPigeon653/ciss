@@ -149,7 +149,7 @@ const ContactForm = () => {
       </div>
 
       <div className="legal-footer"> {/* Reuse the styling class name */}
-        <p>© 2015-2024 CISS. All rights reserved.</p>
+        <p>© 2025-2027 CISS. All rights reserved.</p>
       </div>
 
       <ToastContainer autoClose={5000} limit={1} closeButton={false} />

@@ -36,23 +36,22 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">❤️ Specialized Independant Support</p>
+          <p className="text-headline">❤️ Expert Support Coordination</p>
           <h2 className="text-title">
             Connect today for compassionate support
           </h2>
           <p className="text-descritpion">
-            Discover your independent support worker for personalized care and assistance. 
-            Whether you need help at home, guidance with daily tasks, or companionship, our 
-            dedicated professionals are here to provide compassionate support tailored to 
-            your needs. Connect with an independent support worker today to start receiving 
-            the personalized care you deserve.
+          Find a support coordinator who understands your needs and is here to help you make the most of your NDIS plan.
+          Whether it’s connecting with services, managing your supports, or working towards your goals,
+          our experienced coordinators are here to guide you with care and understanding.
+          Start getting the support you deserve, your way.
           </p>
           <button
             className="text-appointment-btn"
             type="button"
             onClick={handleBookAppointmentClick}
           >
-            <FontAwesomeIcon icon={faCalendarCheck} /> Schedule a Call
+            <FontAwesomeIcon icon={faCalendarCheck} /> Contact Us Today! 
           </button>
           <div className="text-stats">
           <div className="text-stats-container">
