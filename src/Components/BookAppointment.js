@@ -23,16 +23,16 @@ function BookAppointment() {
 
       <div className="ba-text-content">
         <h3 className="ba-title">
-          <span>Why Choose CISS</span>
+          <span>Why Choose Us</span>
         </h3><p className="ba-description">
         Discover the reasons to choose our support services for your NDIS needs.
-        Experience expert care, convenience, and personalized solutions,
+        Experience expert care, convenience, and personalised solutions,
         making your well-being our top priority. Join us on a journey to
         better support and a more independent life.
       </p>
 
         <p className="ba-checks ba-check-first">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Dedicated Support Worker
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Dedicated Support Coordinator
         </p>
         <p className="ba-checks">
           <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Comprehensive Care Management
@@ -41,7 +41,7 @@ function BookAppointment() {
           <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> 24/7 Support Availability
         </p>
         <p className="ba-checks ba-check-last">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Easy and Quick Enrollment
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Easy and Quick Referral Pathway
         </p>
         <button
           className="text-appointment-btn"

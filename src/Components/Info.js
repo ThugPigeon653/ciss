@@ -11,32 +11,28 @@ function Info() {
           <span>What We Do</span>
         </h3>
         <p className="info-description">
-        Experience personalized and dedicated support tailored to your needs. Our services 
+        Experience personalised and dedicated support tailored to your needs. Our services 
         provide comprehensive assistance, expertly designed to enhance your well-being and 
-        independence. Connect with a highly skilled support worker and coordinator who is 
+        independence. Connect with a highly skilled support coordinator who is 
         committed to offering expert assistance for daily activities, ensuring you live 
-        comfortably and confidently. With personalized care plans, we create customized 
+        comfortably and confidently. With personalised care plans, we create customised 
         strategies that cater to your unique requirements, helping you achieve your goals. 
         You can rely on our ongoing support to navigate and coordinate NDIS plans, access 
-        community services, and more.
+        the NDIS, and more.
         </p>
       </div>
 
       <div className="info-cards-content">
         <InformationCard
-          title="Personalized Support Services"
-          description="Our personalized support services are designed to assist you in daily 
-          activities and enhance your quality of life. Whether you need help with personal care, 
-          household tasks, or accessing community resources, you can rely on dedicated support 
-          tailored to your specific needs, ensuring comfort and confidence every day."
+          title="Personalised Support Coordination"
+          description="Our personalised support coordination services are here to help you navigate the NDIS and get the most from your plan. Whether you need assistance finding the right providers, understanding your funding, or working towards your goals, you can count on dedicated guidance tailored to your unique needs—supporting your choice, control, and confidence every step of the way."
           icon={faTruckMedical}
         />
 
         <InformationCard
-          title="NDIS Plan Coordination"
-          description="Navigating the NDIS can be complex, but our expert support coordination 
-          makes it simple and stress-free. We work closely with you to understand your goals, 
-          develop personalized plans, and connect you with the right services and providers. Our 
+          title="NDIS Access Support"
+          description="Navigating the NDIS can be complex, but our expert team 
+          makes it simple and stress-free. We work closely with you to understand how to access the NDIS and make the most of your application. Our 
           aim is to empower you to make informed choices and achieve the best outcomes."
           icon={faHeartPulse}
         />

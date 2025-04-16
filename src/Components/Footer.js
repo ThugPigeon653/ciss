@@ -8,10 +8,10 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              CISS <span className="ft-sign"></span>
+              Trusted Pathways <span className="ft-sign"></span>
             </p>
             <p className="ft-description">
-              Receive personalized NDIS assistance and care plans. 
+              Receive personalised NDIS assistance and care plans. 
               Our on-demand services ensure you get the support you 
               need, when you need it, at your fingertips.
             </p>
@@ -24,13 +24,10 @@ function Footer() {
           <p className="ft-list-title">Services</p>
           <ul className="ft-list-items">
             <li>
-              <a href="#services">Personalized Support</a>
+              <a href="#services">Support Coordination</a>
             </li>
             <li>
-              <a href="#services">NDIS Plan Coordination</a>
-            </li>
-            <li>
-              <a href="#services">Comprehensive Care Management</a>
+              <a href="#services">NDIS Access Assistance</a>
             </li>
           </ul>
         </div>
@@ -60,25 +57,17 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="mailto:christine@trustedpathways.com.au">christine@trustedpathways.com.au</a>
             </li>
             <li>
-              <a href="mailto:appointment@healthplus.com">
-                appointment@healthplus.com
-              </a>
-            </li>
-            <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
-            </li>
-            <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="tel:0408 941 847">0408 941 847</a>
             </li>
           </ul>
         </div>
       </div>
 
       <div className="ft-copyright">
-        <p>© 2015-2024 CISS. All rights reserved.</p>
+        <p>© 2025-2027 Trusted Pathways. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
