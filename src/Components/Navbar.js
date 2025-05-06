@@ -8,6 +8,9 @@ import {
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
+import logo from '../Assets/logo.png';
+
+<img src={logo} alt="Logo" />
 
 function Navbar() {
   const [nav, setNav] = useState(false);
@@ -31,9 +34,10 @@ function Navbar() {
     <div className="navbar-section">
       <h1 className="navbar-title">
         <Link to="/">
-          CISS <span className="navbar-sign">+</span>
-        </Link>
-      </h1>
+          <img src={logo} alt="CISS Logo" className="navbar-logo" />
+          <span className="navbar-sign"></span>
+            </Link>
+          </h1>
 
       {/* Desktop Navigation */}
       <ul className="navbar-items">
@@ -89,11 +93,6 @@ function Navbar() {
           <li>
             <a onClick={openNav} href="#reviews">
               Reviews
-            </a>
-          </li>
-          <li>
-            <a onClick={openNav} href="#doctors">
-              Doctors
             </a>
           </li>
           <li>

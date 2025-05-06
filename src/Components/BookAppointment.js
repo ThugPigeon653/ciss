@@ -32,16 +32,16 @@ function BookAppointment() {
       </p>
 
         <p className="ba-checks ba-check-first">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Dedicated Support Coordinator
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#8c1afd" }} /> Dedicated Support Coordinator
         </p>
         <p className="ba-checks">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Comprehensive Care Management
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#8c1afd" }} /> Comprehensive Care Management
         </p>
         <p className="ba-checks">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> 24/7 Support Availability
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#8c1afd" }} /> 24/7 Support Availability
         </p>
         <p className="ba-checks ba-check-last">
-          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#1E8FFD" }} /> Easy and Quick Referral Pathway
+          <FontAwesomeIcon icon={faCircleCheck} style={{ color: "#8c1afd" }} /> Easy and Quick Referral Pathway
         </p>
         <button
           className="text-appointment-btn"

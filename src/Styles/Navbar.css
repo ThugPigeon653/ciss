@@ -14,11 +14,12 @@
 .navbar-title {
     font-family: 'Poppins', sans-serif;
 }
-.navbar-sign {
-    color: #8c1afd;
-    font-family: Cambria, sans-serif;
-    font-size: 40px;
-    font-weight: bold;
+.navbar-logo {
+    height: 70px;
+    vertical-align: middle;
+    background: transparent;
+    object-fit: contain;
+    margin-left: -20px;
 }
 .navbar-items {
     list-style-type: none;
@@ -113,7 +114,7 @@
     transition: color .3s ease-in-out;
 }
 .mobile-navbar-links li a:hover {
-    color: #0cc2ea;
+    color: #8c1afd;
 }
 /* Responsive */
 @media screen and (max-width: 900px) {
