@@ -26,7 +26,7 @@ function Info() {
         <InformationCard
           title="Personalised Support Coordination"
           description="Our personalised support coordination services are here to help you navigate the NDIS and get the most from your plan. Whether you need assistance finding the right providers, understanding your funding, or working towards your goals, you can count on dedicated guidance tailored to your unique needs—supporting your choice, control, and confidence every step of the way."
-          icon={faTruckMedical}
+          icon={faHeartPulse}
         />
 
         <InformationCard
@@ -42,7 +42,7 @@ function Info() {
           description="We offer comprehensive care management to ensure all aspects of your well-being 
           are addressed. From coordinating medical appointments and therapies to providing emotional 
           support and advocacy, our holistic approach ensures you receive continuous and compassionate care."
-          icon={faTooth}
+          icon={faHeartPulse}
         />
       </div>
     </div>

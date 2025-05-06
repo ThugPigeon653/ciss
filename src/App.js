@@ -6,11 +6,13 @@ import Legal from "./Pages/Legal";
 import NotFound from "./Pages/NotFound";
 import Appointment from "./Pages/Appointment";
 import ContactForm from "./Components/ContactForm"; // Import ContactForm component
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <div className="App">
       <Router basename="/"> {/* Ensure basename matches your deployment */}
+        <Navbar/>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/legal" element={<Legal />} />

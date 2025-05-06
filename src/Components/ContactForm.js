@@ -83,9 +83,9 @@ const ContactForm = () => {
   return (
     <div className="appointment-form-section"> {/* Reuse the styling class name */}
       <h1 className="legal-siteTitle">
-        <Link to="/">
+        {/*<Link to="/">
           CISS <span className="legal-siteSign">+</span>
-        </Link>
+        </Link>*/}
       </h1>
 
       <div className="form-container"> {/* Reuse the styling class name */}
