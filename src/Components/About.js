@@ -1,6 +1,7 @@
 import React from "react";
-import SupportWorker from "../Assets/support-worker-01.png";
+//import SupportWorker from "../Assets/support-worker-01.png";
 import SolutionStep from "./SolutionStep";
+import SupportWorker from "../Assets/Girl-wheelchair.png";
 import "../Styles/About.css";
 
 function About() {

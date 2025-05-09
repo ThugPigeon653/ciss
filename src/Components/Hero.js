@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import SupportWorker from "../Assets/support-worker.png";
+import SupportWorker from "../Assets/down-syndrome-colour.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarCheck, faAngleUp } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate  } from "react-router-dom";
@@ -36,7 +36,7 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">❤️ Expert Support Coordination</p>
+          <p className="text-headline">Expert Support Coordination</p>
           <h2 className="text-title">
             Connect today for compassionate support
           </h2>
