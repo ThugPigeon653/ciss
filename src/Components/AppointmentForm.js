@@ -102,7 +102,7 @@ function AppointmentForm() {
     <div className="appointment-form-section">
       <h1 className="legal-siteTitle">
         <Link to="/">
-          CISS <span className="legal-siteSign">+</span>
+           <span className="legal-siteSign"></span>
         </Link>
       </h1>
 
