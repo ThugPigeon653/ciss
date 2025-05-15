@@ -19,7 +19,7 @@
     letter-spacing: .7px;
 }
 .rw-text-num {
-    color: #8c1afd;
+    color: #3b0a54;
 }
 .rw-text-desc {
     margin: 16px 0;
@@ -98,7 +98,7 @@
     cursor: pointer;
 }
 .rw-next-btn:hover {
-    color: #8c1afd;
+    color: #3b0a54;
 }
 /* Responsive */
 @media screen and (max-width: 700px) {

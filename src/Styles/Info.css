@@ -19,7 +19,7 @@
     position: absolute;
     width: 75%;
     height: 4px;
-    background-color: #8c1afd;
+    background-color: #3b0a54;
     border-radius: 8px;
     left: 0;
     bottom: -12px;
@@ -72,7 +72,7 @@
     border-radius: 30px;
 }
 .info-fa-icon {
-    color: #8c1afd;
+    color: #3b0a54;
     font-size: 24px;
 }
 /* Responsive */
