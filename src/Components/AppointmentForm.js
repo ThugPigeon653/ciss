@@ -66,7 +66,7 @@ function AppointmentForm() {
 
     try {
       // Simulate sending form data (replace with actual endpoint)
-      const response = await fetch("https://formspree.io/f/xleyvgbq", {
+      const response = await fetch("https://formspree.io/f/xanjlvby", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
