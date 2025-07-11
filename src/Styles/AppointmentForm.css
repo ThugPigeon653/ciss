@@ -87,3 +87,12 @@
         font-size: 18px;
     }
 }
+
+textarea {
+  min-height: 120px;
+  resize: vertical; /* Optional: allows only vertical resize */
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
