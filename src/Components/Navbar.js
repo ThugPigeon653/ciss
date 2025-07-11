@@ -96,9 +96,9 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a onClick={openNav} href="#contact">
+            <Link onClick={openNav} to="/contact">
               Contact
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
